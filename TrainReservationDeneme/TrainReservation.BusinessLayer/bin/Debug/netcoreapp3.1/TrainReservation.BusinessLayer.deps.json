@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TrainReservation.BusinessLayer/1.0.0": {
+        "dependencies": {
+          "TrainReservation.Entities": "1.0.0"
+        },
+        "runtime": {
+          "TrainReservation.BusinessLayer.dll": {}
+        }
+      },
+      "TrainReservation.Entities/1.0.0": {
+        "runtime": {
+          "TrainReservation.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TrainReservation.BusinessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TrainReservation.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

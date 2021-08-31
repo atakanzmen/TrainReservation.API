@@ -1,0 +1,9 @@
+C:\Users\Atakan Ozmen\source\repos\TrainReservationDeneme\TrainReservation.Entities\bin\Debug\netcoreapp3.1\TrainReservation.Entities.deps.json
+C:\Users\Atakan Ozmen\source\repos\TrainReservationDeneme\TrainReservation.Entities\bin\Debug\netcoreapp3.1\TrainReservation.Entities.dll
+C:\Users\Atakan Ozmen\source\repos\TrainReservationDeneme\TrainReservation.Entities\bin\Debug\netcoreapp3.1\TrainReservation.Entities.pdb
+C:\Users\Atakan Ozmen\source\repos\TrainReservationDeneme\TrainReservation.Entities\obj\Debug\netcoreapp3.1\TrainReservation.Entities.csprojAssemblyReference.cache
+C:\Users\Atakan Ozmen\source\repos\TrainReservationDeneme\TrainReservation.Entities\obj\Debug\netcoreapp3.1\TrainReservation.Entities.AssemblyInfoInputs.cache
+C:\Users\Atakan Ozmen\source\repos\TrainReservationDeneme\TrainReservation.Entities\obj\Debug\netcoreapp3.1\TrainReservation.Entities.AssemblyInfo.cs
+C:\Users\Atakan Ozmen\source\repos\TrainReservationDeneme\TrainReservation.Entities\obj\Debug\netcoreapp3.1\TrainReservation.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Atakan Ozmen\source\repos\TrainReservationDeneme\TrainReservation.Entities\obj\Debug\netcoreapp3.1\TrainReservation.Entities.dll
+C:\Users\Atakan Ozmen\source\repos\TrainReservationDeneme\TrainReservation.Entities\obj\Debug\netcoreapp3.1\TrainReservation.Entities.pdb
